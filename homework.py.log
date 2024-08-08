@@ -1,0 +1,7 @@
+2024-04-03 11:41:58,541 [DEBUG] get_api_answer:96: Начало запроса к API: запрос https://practicum.yandex.ru/api/user_api/homework_statuses/ с {'Authorization': 'OAuth y0_AgAAAAByJ4l-AAYckQAAAAEADKpZAACiJAw0481BNoic0PWmhH1-7Xqxvw'}и {'from_date': 1712133718}
+2024-04-03 11:41:58,610 [DEBUG] _new_conn:1019: Starting new HTTPS connection (1): practicum.yandex.ru:443
+2024-04-03 11:41:59,123 [DEBUG] _make_request:474: https://practicum.yandex.ru:443 "GET /api/user_api/homework_statuses/?from_date=1712133718 HTTP/1.1" 200 42
+2024-04-03 11:41:59,131 [DEBUG] get_api_answer:96: Начало запроса к API: запрос https://practicum.yandex.ru/api/user_api/homework_statuses/ с {'Authorization': 'OAuth y0_AgAAAAByJ4l-AAYckQAAAAEADKpZAACiJAw0481BNoic0PWmhH1-7Xqxvw'}и {'from_date': 1712133718}
+2024-04-03 11:41:59,139 [DEBUG] _new_conn:1019: Starting new HTTPS connection (1): practicum.yandex.ru:443
+2024-04-03 11:41:59,640 [DEBUG] _make_request:474: https://practicum.yandex.ru:443 "GET /api/user_api/homework_statuses/?from_date=1712133718 HTTP/1.1" 200 42
+2024-04-03 11:41:59,645 [DEBUG] main:188: Нет новых обновлений по домашним работам
